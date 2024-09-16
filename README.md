@@ -138,7 +138,3 @@ python tts.py --text "Hola, este es un ejemplo." --lang es --pitch 7 --rate 1.2 
 
 ## License
 This project is licensed under the MIT License.
-
----
-
-This updated README includes detailed instructions on how to use the language prefix feature, how to choose voices, adjust pitch and rate, and other options in your command-line tool. Let me know if you need more adjustments!
